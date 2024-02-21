@@ -1,0 +1,126 @@
+Last login: Wed Apr 20 14:24:29 on ttys001
+➜  ~ cd Documents/ОКСМ
+➜  ОКСМ nano shell_script.sh
+➜  ОКСМ $ cat 01-tiny-access.log | head -n 5 |  cut -d " " -f 1 | > list.txt
+
+$ cat list.txt
+zsh: command not found: $
+zsh: command not found: $
+➜  ОКСМ $ cat 01-tiny-access.log | head -n 5 |  cut -d " " -f 1 | > list.txt
+zsh: command not found: $
+➜  ОКСМ  cat 01-tiny-access.log | head -n 5 |  cut -d " " -f 1 | > list.txt 
+➜  ОКСМ  cat list.txt 
+host-24-225-218-245.patmedia.net
+72-48-42-121.dyn.grandenetworks.net
+c529d19fd.cable.wanadoo.nl
+c529d19fd.cable.wanadoo.nl
+c529d19fd.cable.wanadoo.nl
+➜  ОКСМ nano shell_script.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                                                                                                File: shell_script.sh                                                                                                 Modified  
+
+!#/bin/sh
+
+$ cat 01-tiny-access.log | head -n 5 |  cut -d " " -f 1 | > list.txt
+
+$ cat list.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           [ Unknown Command: ^S ]                                                                                                            
+^G Get Help                            ^O WriteOut                            ^R Read File                           ^Y Prev Pg                             ^K Cut Text                            ^C Cur Pos                             
+^X Exit                                ^J Justify                             ^W Where is                            ^V Next Pg                             ^U UnCut Text                          ^T To Spell                            
